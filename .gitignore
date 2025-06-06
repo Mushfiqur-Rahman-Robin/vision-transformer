@@ -1,5 +1,7 @@
 flower_photos/
 files/
+flower_classification/
+models/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
